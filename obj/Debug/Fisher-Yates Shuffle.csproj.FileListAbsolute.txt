@@ -1,0 +1,10 @@
+c:\users\aaron\documents\visual studio 2010\Projects\FindKey\Fisher-Yates Shuffle\obj\Debug\ResolveAssemblyReference.cache
+c:\users\aaron\documents\visual studio 2010\Projects\FindKey\Fisher-Yates Shuffle\bin\Debug\Fisher-Yates Shuffle.dll
+c:\users\aaron\documents\visual studio 2010\Projects\FindKey\Fisher-Yates Shuffle\bin\Debug\Fisher-Yates Shuffle.pdb
+c:\users\aaron\documents\visual studio 2010\Projects\FindKey\Fisher-Yates Shuffle\obj\Debug\Fisher-Yates Shuffle.dll
+c:\users\aaron\documents\visual studio 2010\Projects\FindKey\Fisher-Yates Shuffle\obj\Debug\Fisher-Yates Shuffle.pdb
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\CHAFFIN\Fisher-Yates Shuffle\bin\Debug\Fisher-Yates Shuffle.dll
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\CHAFFIN\Fisher-Yates Shuffle\bin\Debug\Fisher-Yates Shuffle.pdb
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\CHAFFIN\Fisher-Yates Shuffle\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\CHAFFIN\Fisher-Yates Shuffle\obj\Debug\Fisher-Yates Shuffle.dll
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\CHAFFIN\Fisher-Yates Shuffle\obj\Debug\Fisher-Yates Shuffle.pdb
